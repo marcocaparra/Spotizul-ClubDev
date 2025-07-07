@@ -10,8 +10,6 @@ Foco total em responsividade, estrutura semântica e manipulação dinâmica de 
 > 🎥 **Demo**: [Clique aqui para assistir](https://youtu.be/e3_w-oMW2GA)  
 > *(ou clique na imagem abaixo para ver o projeto rodando)*
 
-[![Watch the demo](https://img.youtube.com/vi/e3_w-oMW2GA/maxresdefault.jpg)](https://www.youtube.com/watch?v=e3_w-oMW2GA)
-
 ---
 
 ## 🚀 Funcionalidades implementadas
